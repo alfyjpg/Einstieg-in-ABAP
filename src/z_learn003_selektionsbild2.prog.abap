@@ -42,13 +42,9 @@ selection-screen skip 4.
 
 
 selection-screen begin of block b2 with frame title text-008.
-
 parameters: strasse type string,
 hausnr type n,
 plz type n.
-
-
-
   selection-screen end of block b2.
 
 
