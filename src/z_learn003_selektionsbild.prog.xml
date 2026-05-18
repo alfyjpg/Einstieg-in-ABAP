@@ -12,6 +12,12 @@
    </PROGDIR>
    <TPOOL>
     <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Herzöiche Glückwünsche. Sie habe das erste Selektionsbildschirm gut verstanden. Sind die bereit für das zweite und komplexere?</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
      <ID>R</ID>
      <ENTRY>Programm Z_LEARN003_SELEKTIONSBILD</ENTRY>
      <LENGTH>34</LENGTH>

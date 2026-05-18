@@ -242,7 +242,7 @@ ENDIF.
 
  delete itab where artikelnr = '2'.
 
- data(number_lines) = lines( itab ).
+ data(number_lines) = lines( itab ). " Man muss abstand zwischen die Variable und die Klammern.
 
  write: / 'Anzahl der Zeile in unserer internen Tabelle ist: ', number_lines.
 

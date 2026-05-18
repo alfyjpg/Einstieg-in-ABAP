@@ -65,7 +65,11 @@ PARAMETERS: rd1 RADIOBUTTON GROUP news,
 
 "============================================================================================================
 "============================================================================================================
-"Selektionstexte"
 
-"Nachdem wir die Eingabefeldern, Checkboxes und Radiobuttons erfolgreich deklariert und initalisiert haben
-"Müssen wir die aber mit Namen versehen.
+" Rest finden sie im programm Z_LEARN003_SELEKTIONSBILD.
+
+write text-001.
+*
+*if box is not initial.
+*leave to TRANSACTION 'Z_LEARN003_SELEKTIONSBILD2'.
+*endif.
