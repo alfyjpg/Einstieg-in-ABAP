@@ -12,7 +12,7 @@ PARAMETERS: number1 TYPE i default 10,
 data result2 type p DECIMALS 5.
 
 
-
+"Rechenoperation
 
 
 " +

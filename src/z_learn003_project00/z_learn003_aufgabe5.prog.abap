@@ -21,6 +21,7 @@
 *
 *flag = 1.   " = TRUE
 *flag = 0.   " = FALSE
+"Sehr wichtig zu lernen, wie man das ganze in While Schleife einbettet
 
 REPORT z_learn003_aufgabe5.
 

@@ -28,6 +28,7 @@ else.
 
     " Case schreibt man aber ohne ''.
     " When aber schon mit ''.
+    " Kleinigkeiten machen viele Unterschiede!
 
     CASE zeichen.
       WHEN '*'.

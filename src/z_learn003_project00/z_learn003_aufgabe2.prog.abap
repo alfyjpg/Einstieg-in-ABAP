@@ -17,6 +17,7 @@ data result2 type p DECIMALS 5.
 "Leider ABAP erlaubt keine direkte Berechnung innerhalb der Write-Anweisung.
 "D.h. Wir müssen die Berechnung zurerst in einer externen Variable einlagern
 
+"Rechenoperation
 
 " +
 data(result)  = number1 + number2.
